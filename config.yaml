@@ -1,0 +1,16 @@
+cookie:
+  expiry_days: 30
+  key: some_signature_key
+  name: some_cookie_name
+credentials:
+  usernames:
+    arparikh:
+      email: arparikh@iu.edu
+      name: Arnav Parikh
+      password: $2b$12$dA.jQqcJLdqphnN0bYdmQuCrpgcu19gp1opX807wi0aNwoGyx4L0u
+    ssakthi:
+      email: ssakthi@iu.edu
+      name: Sunil Sakthivel
+      password: $2b$12$2WFnPtDDFXMBoq8nrayH6edlP7AV3byX17dkq1AH/o1o9Tiqeajye
+preauthorized:
+  emails: null
